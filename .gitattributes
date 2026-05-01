@@ -1,0 +1,3 @@
+*.s linguist-vendored
+*.ld linguist-vendored
+*.launch linguist-vendored
