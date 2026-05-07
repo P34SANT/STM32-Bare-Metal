@@ -1,10 +1,11 @@
 ## Topics Covered
-- GPIO configuration and LED control
+- GPIO configuration
 - Timer configuration
-- External interrupts
+- interrupts
 - UART communication
 - Basic peripheral register programming
-
+- Basic DMA Buffer
+- Basic ADC configuration
 ## Tools
 - MCU: STM32 (F407VET6)
 - Language: C
